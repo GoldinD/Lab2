@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/GoldinD/Lab2#readme",
   "dependencies": {
-    "express": "file:node_modules/express"
+    "express": "^4.16.4"
   }
 }
