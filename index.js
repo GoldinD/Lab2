@@ -1,3 +1,4 @@
+// Working without creating a module
 let path = require('path'); 
 let express = require('express'); 
 let app = express();
